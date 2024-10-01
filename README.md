@@ -10,4 +10,5 @@ This project allows you to simulate and visualize how CPU temperature fluctuates
  - CPU Usage
  - Fan Speeds
  - Ambient Temperature
+
 It uses basic thermal equations to simulate heat generation and dissipation over time and provides a visual output in the form of a graph.
